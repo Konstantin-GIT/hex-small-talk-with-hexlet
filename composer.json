@@ -1,0 +1,17 @@
+{
+    "name": "konstantin-GIT/small-talk-with-hexlet",
+    "authors": [
+        {
+            "name": "konstantin-GIT",
+            "email": "konstantin000008@gmail.com"
+        }
+    ],
+    "description": "Small talk with Hexlet",
+    "keywords": ["hexlet", "php", "composer"],
+    "license": "MIT",
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ],
+    "require": {}
+}
